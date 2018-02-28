@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1519780756 source:c:\users\florentino garcia\source\repos\polimorfismo\polimorfismo\char.cpp
+	"Char.h"
+	"Object.h"
+	<iostream>
+
+1519782214 c:\users\florentino garcia\source\repos\polimorfismo\polimorfismo\char.h
+	"Object.h"
+
+1519766034 c:\users\florentino garcia\source\repos\polimorfismo\polimorfismo\object.h
+
+1519780756 source:c:\users\florentino garcia\source\repos\polimorfismo\polimorfismo\integer.cpp
+	"Integer.h"
+	"Object.h"
+	<iostream>
+
+1519782214 c:\users\florentino garcia\source\repos\polimorfismo\polimorfismo\integer.h
+	"Object.h"
+
